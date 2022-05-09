@@ -1,1 +1,1 @@
-# navication
+# navigation
