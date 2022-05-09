@@ -1,4 +1,3 @@
 # navigation
 
-LINK:
-https://github.com/VasoThom/navigation/settings/pages
+LINK:https://vasothom.github.io/navigation/
