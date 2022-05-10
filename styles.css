@@ -11,13 +11,12 @@ ul {
 
 nav > ul > li {
   float: left;
-
-  padding: 8px 8px;
+  padding: 3px 2px;
   position: relative;
 }
 a {
   display: block;
-  padding: 8px;
+  padding: 10px;
   background-color: #dddddd;
 }
 
@@ -26,7 +25,18 @@ nav > ul > li ul {
 }
 li:hover > ul {
   display: block;
-  top: 2px;
-  left: 40px;
+  top: 20px;
+  left: 20px;
+  margin-top: 20%;
+  position: absolute;
+
+  cursor: pointer;
+}
+li:hover > ul ul {
+  left: 100%;
+  top: 0;
+  margin-top: 0;
+}
+li {
   position: relative;
 }
