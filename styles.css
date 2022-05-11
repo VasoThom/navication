@@ -40,13 +40,12 @@ li:hover > ul ul {
 li {
   position: relative;
 }
-section {
-  color: rebeccapurple;
-}
+
 nav {
   position: fixed;
   top: 0;
 }
 main {
   margin-top: 60px;
+  color: rebeccapurple;
 }
